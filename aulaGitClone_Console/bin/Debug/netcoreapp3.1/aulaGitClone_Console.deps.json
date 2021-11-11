@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aulaGitClone_Console/1.0.0": {
+        "runtime": {
+          "aulaGitClone_Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aulaGitClone_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
